@@ -29,7 +29,7 @@ public class Sample107 {
 			for(int c : b) {
 				System.out.print(c + " ");
 			}
-		}
+		} 
 	}
 
 }

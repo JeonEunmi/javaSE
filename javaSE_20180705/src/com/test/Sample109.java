@@ -38,4 +38,4 @@ public class Sample109 {
 			System.out.println(Arrays.toString(c[i]));   //다차원배열 c를 출력
 		}
 	}
-}
+} 

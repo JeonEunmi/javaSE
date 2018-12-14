@@ -32,7 +32,7 @@ public class Sample108 {
 			for(int j : i) {
 				total += j;
 				System.out.print(j + " ");
-			}
+			} 
 			System.out.println();
 		}
 		System.out.println("--------");

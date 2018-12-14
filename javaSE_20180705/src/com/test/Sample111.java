@@ -33,7 +33,7 @@ public class Sample111 {
 		for(int i=0; i<a.length; ++i) {				// 1에서 tmp 까지의 수를 순차적으로 배열 a에 넣음
 			a[i] = i+1;
 		}
-		
+		 
 		System.out.println(Arrays.toString(a));
 		System.out.println("-------------");
 		

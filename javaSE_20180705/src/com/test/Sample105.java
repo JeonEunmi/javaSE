@@ -32,7 +32,7 @@ public class Sample105 {
 		 * for(자료형 변수 : 배열객체) {
 			
 		}
-		 */
+		 */ 
 	}
 
 }

@@ -25,7 +25,7 @@ public class Sample102 {
 			total += Integer.parseInt(c[b]); // int + String -> int + int
 		}
 		System.out.println(total);
-		
+	 	
 		
 		// 고유번호 동적 생성
 		// 예를 들어, "S001" 값을 가지고 "S002" 번호 생성

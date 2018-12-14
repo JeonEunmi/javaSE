@@ -41,5 +41,5 @@ public class Sample106 {
 		System.out.println(d[0].length);
 		System.out.println(d[2].length);
 		}
-	} 
+	}  
 
